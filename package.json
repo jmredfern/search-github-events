@@ -1,0 +1,17 @@
+{
+  "name": "search-github-events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "search-github-events": "./index.js"
+  },
+  "dependencies": {
+    "octokit": "^1.7.2"
+  }
+}
