@@ -5,5 +5,5 @@ npm i -g
 
 Usage:
 ```
-GITHUB_PERSONAL_ACCESS_TOKEN=<your token> OWNER=<repo-owner> REPO=<repo name> search-github-events
+GITHUB_PERSONAL_ACCESS_TOKEN=<your token> OWNER=<repo-owner> REPO=<repo name> search-github-events "string to search for"
 ```
